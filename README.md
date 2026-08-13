@@ -85,7 +85,7 @@ After completing the installation, the PrestaShop store became publicly accessib
 
 ## 8. Requirement Verification
 
-| Assignment Requirement | Implementation |
+| Implementation |
 |---|---|
 | Create a new server instance | Amazon EC2 Ubuntu instance |
 | Install PrestaShop | PrestaShop 9.1.4 installed successfully |
