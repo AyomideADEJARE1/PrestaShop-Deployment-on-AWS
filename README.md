@@ -6,8 +6,7 @@ This project demonstrates the deployment of the open-source PrestaShop e-commerc
 
 ## 1. Working PrestaShop Installation
 
-**Public URL:**  
-http://51.20.117.33/
+**Public URL:**  http://51.20.117.33/
 
 The PrestaShop store is publicly accessible through the EC2 instance's public IPv4 address.
 
