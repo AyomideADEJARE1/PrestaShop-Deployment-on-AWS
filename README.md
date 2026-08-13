@@ -86,14 +86,14 @@ After completing the installation, the PrestaShop store became publicly accessib
 ## 8. Requirement Verification
 
 | Implementation |
-|---|---|
-| Create a new server instance | Amazon EC2 Ubuntu instance |
-| Install PrestaShop | PrestaShop 9.1.4 installed successfully |
-| Publicly accessible URL | EC2 public IPv4 address |
-| Database separate from application server | Amazon RDS MySQL |
-| Use AWS Free Tier | EC2 t3.micro and RDS Free Tier configuration |
-| Provide implementation documentation | Steps and screenshots included above |
-
+```
+Create a new server instance - Amazon EC2 Ubuntu instance 
+Install PrestaShop - PrestaShop 9.1.4 installed successfully 
+Publicly accessible URL - EC2 public IPv4 address 
+Database separate from application server - Amazon RDS MySQL 
+Use AWS Free Tier - EC2 t3.micro and RDS Free Tier configuration 
+Provide implementation documentation - Steps and screenshots included above 
+```
 ## 9. Technologies Used
 
 - Amazon EC2
